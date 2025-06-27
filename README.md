@@ -21,7 +21,7 @@ So rather than gatekeep the process, I’d like to open source everything.
 
 Locked in are also [x.com/bitcoincookie](https://x.com/bitcoincookie), and the domain https://www.bitcoincookie.com
 
-There’s a [Discord link here with a specified channel](https://discord.gg/rAX5pRMY7z) if you want to jump in and discuss anything further...
+There’s a [Discord link here](https://discord.gg/rAX5pRMY7z) with a specified channel if you want to jump in and discuss anything further...
 
 Whether you're into packaging, logistics, design, or have a sweet new idea — feel free to take the reins or collaborate, submit PRs here, as you can see the website looks great.
 
