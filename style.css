@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#cookie-link {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  outline: none;
+}
+#cookie-link:active, #cookie-link:focus {
+  outline: none;
+}
+#cookie-emoji {
+  font-size: 30vw;
+  line-height: 1;
+  user-select: none;
+  text-shadow: 0 0 40px #222;
+}
+#cookie-container {
+  width: 400px;
+  height: 400px;
+}
